@@ -9,4 +9,5 @@
 
 ### Lier un repo local avec github
 - créer des clés ssh
-- ...
+- ajouter les clés ssh au ssh-agent
+- mettre la clé public sur github
